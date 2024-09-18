@@ -2,8 +2,6 @@
 
 
 
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Discord (galaxy_dominator)
 - 😄 Pronouns: He/Him
