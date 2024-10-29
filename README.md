@@ -1,4 +1,4 @@
-# Hey! Galaxy Here I'm 16 years old and minecraft server dev and minecraft plugin developer and right now learning web development
+# Hey! Galaxy Here I'm 16 years old and minecraft server dev and minecraft plugin developer
 
 
 
