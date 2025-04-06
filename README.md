@@ -1,16 +1,15 @@
 
 🎮 Yo! Galaxy here 🚀
-I’m 16, a Minecraft server & plugin dev 🧱 who lives in code 💻, command blocks ⛏️, and snacks 🍪. On a mission to create the coolest and most unique Minecraft experiences out there — from custom gamemodes 🎯 to high-end plugins 🧩.
+Minecraft server & plugin dev 🧱
+Code, command blocks ⛏️, and snacks 🍪 are life! 🌱
 
-🔧 I specialize in:
-• ⚙️ Custom plugin development (Java)
-• 🛢️ MongoDB & Redis integrations
-• 🖼️ GUI systems, 🎯 Elo rankings, and more!
+🔧 Specialties:
+• Custom plugins ⚙️
+• MongoDB & Redis 🛢️
+• GUIs, Elo rankings, minigames 🎮
 
-🌱 Forever leveling up my IRL XP bar 🧠
-🛠️ Currently working on: [Insert your latest project]
-📂 Portfolio: [Link here if you have one]
-📫 DM me on Discord: galaxy_dominator 💬
+📫 DM me on Discord: galaxy_dominator
 😄 Pronouns: He/Him
 
-✨ Let’s craft some magic together and push Minecraft to its limits! 
+✨ Let’s craft some magic! 🌌
+
