@@ -13,5 +13,4 @@ I’m 16, a Minecraft server & plugin dev 🧱 who lives in code 💻, command b
 📫 DM me on Discord: galaxy_dominator 💬
 😄 Pronouns: He/Him
 
-✨ Let’s craft some magic together and push Minecraft to its limits! 🌌
-
+✨ Let’s craft some magic together and push Minecraft to its limits! 
